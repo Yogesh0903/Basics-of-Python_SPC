@@ -5,8 +5,7 @@
     "colab": {
       "name": "Area_Circum.ipynb",
       "provenance": [],
-      "authorship_tag": "ABX9TyNpR9KL+c2VF+L7TdAkHsdg",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyNpR9KL+c2VF+L7TdAkHsdg"
     },
     "kernelspec": {
       "name": "python3",
@@ -17,16 +16,6 @@
     }
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/Yogesh0903/Basics-of-Python_SPC/blob/main/Assignments/Assignment%203/Area_Circum.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "execution_count": null,
